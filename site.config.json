@@ -1,6 +1,6 @@
 {
-  "name": "{{SITE_NAME}}",
-  "domain": "{{DOMAIN}}",
-  "tagline": "{{TAGLINE}}",
-  "brandColor": "{{BRAND_COLOR}}"
+  "name": "New Site Smoke 1",
+  "domain": "new-site-smoke-1.pages.dev",
+  "tagline": "",
+  "brandColor": "#1f2937"
 }
