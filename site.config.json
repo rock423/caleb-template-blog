@@ -1,0 +1,6 @@
+{
+  "name": "{{SITE_NAME}}",
+  "domain": "{{DOMAIN}}",
+  "tagline": "{{TAGLINE}}",
+  "brandColor": "{{BRAND_COLOR}}"
+}
